@@ -3,3 +3,9 @@
 
 #Database
 *.sqlite3
+
+*.cpython-38.pyc
+*.settings.cpython-38.pyc
+*.wsgi.cpython-38.pyc
+
+__pycache__/*
